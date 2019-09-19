@@ -102,3 +102,10 @@ googleusercontent.com
 vimeo.com
 linkedin.com
 drive.google.com
+
+wordpress.org
+youtu.be
+googleusercontent.com
+vimeo.com
+linkedin.com
+drive.google.com
